@@ -1,0 +1,101 @@
+============================================================
+CORPUS INVENTORY SUMMARY
+============================================================
+Root          : D:\Books
+Total files   : 3,980
+Total size    : 1383.1 MB
+
+── BY LANGUAGE FOLDER ──
+  1_sanskr
+    Files : 3,741
+    Size  : 1092.8 MB
+    Exts  : {'.htm': 2136, '.xml': 802, '.txt': 800, '.zip': 2, '.css': 1}
+    Sample: ['1_sanskr\\1_sanskr\\1_veda.zip', '1_sanskr\\1_sanskr\\1_veda\\1_sam\\avs_acu.htm', '1_sanskr\\1_sanskr\\1_veda\\1_sam\\avs___u.htm']
+
+  4_drav
+    Files : 215
+    Size  : 32.6 MB
+    Exts  : {'.htm': 201, '.csv': 8, '.xml': 2, '.py': 1, '.json': 1, '.css': 1, '.txt': 1}
+    Sample: ['4_drav\\4_drav\\ta-sa_periyavaccanpillai-perumaltiromolivyAkhyAnam.xml', '4_drav\\4_drav\\malayalam\\jyotsniu.htm', '4_drav\\4_drav\\tamil\\pm\\AARU.PY']
+
+  6_sres
+    Files : 24
+    Size  : 257.8 MB
+    Exts  : {'.htm': 23, '.py': 1}
+    Sample: ['6_sres\\6_sres\\1_comp\\aufrcc_u.htm', '6_sres\\6_sres\\1_comp\\MPD_DISCOVERY_v3.py', '6_sres\\6_sres\\1_comp\\vedconc_u.htm']
+
+── FILE EXTENSIONS (all) ──
+  .htm             2,360
+  .xml               804
+  .txt               801
+  .csv                 8
+  .zip                 2
+  .css                 2
+  .py                  2
+  .json                1
+
+── FOLDERS ──
+  1_sanskr\1_sanskr                                      1 files      7.1 MB  {'.zip': 1}
+  1_sanskr\1_sanskr\1_veda\1_sam                         5 files      4.7 MB  {'.htm': 5}
+  1_sanskr\1_sanskr\1_veda\1_sam\1_rv                   32 files      7.2 MB  {'.htm': 32}
+  1_sanskr\1_sanskr\1_veda\2_bra                         5 files      1.9 MB  {'.htm': 5}
+  1_sanskr\1_sanskr\1_veda\2_bra\satapath               13 files      2.2 MB  {'.htm': 13}
+  1_sanskr\1_sanskr\1_veda\3_ara                         1 files      0.1 MB  {'.htm': 1}
+  1_sanskr\1_sanskr\1_veda\4_upa                        35 files      3.9 MB  {'.htm': 35}
+  1_sanskr\1_sanskr\1_veda\5_vedang\1_srauta             5 files      1.6 MB  {'.htm': 5}
+  1_sanskr\1_sanskr\1_veda\5_vedang\2_grhya              9 files      2.5 MB  {'.htm': 9}
+  1_sanskr\1_sanskr\1_veda\5_vedang\2_paris              3 files      0.6 MB  {'.htm': 3}
+  1_sanskr\1_sanskr\1_veda\5_vedang\3_pratis             2 files      0.5 MB  {'.htm': 2}
+  1_sanskr\1_sanskr\2_epic\mbh                          19 files     32.2 MB  {'.htm': 19}
+  1_sanskr\1_sanskr\2_epic\mbh\ext                      31 files     19.4 MB  {'.htm': 31}
+  1_sanskr\1_sanskr\2_epic\ramayana                     14 files      8.3 MB  {'.htm': 14}
+  1_sanskr\1_sanskr\3_purana                            39 files     27.8 MB  {'.htm': 39}
+  1_sanskr\1_sanskr\3_purana\bhagp                      14 files      4.7 MB  {'.htm': 14}
+  1_sanskr\1_sanskr\3_purana\brahmap                     3 files      6.5 MB  {'.htm': 3}
+  1_sanskr\1_sanskr\4_rellit\buddh                     267 files     40.6 MB  {'.htm': 267}
+  1_sanskr\1_sanskr\4_rellit\jaina                       3 files      0.3 MB  {'.htm': 3}
+  1_sanskr\1_sanskr\4_rellit\saiva                      82 files      8.9 MB  {'.htm': 82}
+  1_sanskr\1_sanskr\4_rellit\vaisn                      43 files     11.0 MB  {'.htm': 43}
+  1_sanskr\1_sanskr\5_poetry\1_alam                     53 files     12.4 MB  {'.htm': 53}
+  1_sanskr\1_sanskr\5_poetry\1_chandas                   6 files      0.3 MB  {'.htm': 6}
+  1_sanskr\1_sanskr\5_poetry\1_natya                     2 files      0.7 MB  {'.htm': 2}
+  1_sanskr\1_sanskr\5_poetry\2_kavya                   118 files     12.0 MB  {'.htm': 118}
+  1_sanskr\1_sanskr\5_poetry\3_drama                    18 files      1.6 MB  {'.htm': 18}
+  1_sanskr\1_sanskr\5_poetry\4_narr                     11 files     18.7 MB  {'.htm': 11}
+  1_sanskr\1_sanskr\5_poetry\5_subhas                   15 files      6.9 MB  {'.htm': 15}
+  1_sanskr\1_sanskr\5_poetry\6_hist                      3 files      0.5 MB  {'.htm': 3}
+  1_sanskr\1_sanskr\6_sastra                             1 files      0.6 MB  {'.zip': 1}
+  1_sanskr\1_sanskr\6_sastra\1_gram                     18 files     19.1 MB  {'.htm': 18}
+  1_sanskr\1_sanskr\6_sastra\2_lex                       4 files      0.3 MB  {'.htm': 4}
+  1_sanskr\1_sanskr\6_sastra\3_phil                      4 files      0.3 MB  {'.htm': 4}
+  1_sanskr\1_sanskr\6_sastra\3_phil\advaita              3 files      5.8 MB  {'.htm': 3}
+  1_sanskr\1_sanskr\6_sastra\3_phil\buddh              153 files     18.5 MB  {'.htm': 153}
+  1_sanskr\1_sanskr\6_sastra\3_phil\mimamsa             38 files      8.3 MB  {'.htm': 38}
+  1_sanskr\1_sanskr\6_sastra\3_phil\nyaya               33 files      8.4 MB  {'.htm': 33}
+  1_sanskr\1_sanskr\6_sastra\3_phil\saiva               36 files      2.9 MB  {'.htm': 36}
+  1_sanskr\1_sanskr\6_sastra\3_phil\samkhya             19 files      1.5 MB  {'.htm': 19}
+  1_sanskr\1_sanskr\6_sastra\3_phil\vaisesik             4 files      0.3 MB  {'.htm': 4}
+  1_sanskr\1_sanskr\6_sastra\3_phil\vedanta             61 files     16.9 MB  {'.htm': 61}
+  1_sanskr\1_sanskr\6_sastra\3_phil\yoga                10 files      0.8 MB  {'.htm': 10}
+  1_sanskr\1_sanskr\6_sastra\4_dharma\smrti             46 files      8.6 MB  {'.htm': 46}
+  1_sanskr\1_sanskr\6_sastra\4_dharma\sutra              6 files      0.7 MB  {'.htm': 6}
+  1_sanskr\1_sanskr\6_sastra\5_artha                     1 files      0.6 MB  {'.htm': 1}
+  1_sanskr\1_sanskr\6_sastra\6_kama                      5 files      0.6 MB  {'.htm': 5}
+  1_sanskr\1_sanskr\6_sastra\7_ayur                     28 files      7.4 MB  {'.htm': 28}
+  1_sanskr\1_sanskr\6_sastra\8_jyot                     13 files      1.8 MB  {'.htm': 13}
+  1_sanskr\1_sanskr\7_fromindonesia                      2 files      0.2 MB  {'.htm': 2}
+  1_sanskr\1_sanskr\tei                                802 files    247.2 MB  {'.xml': 802}
+  1_sanskr\1_sanskr\tei\transformations\html           801 files    308.9 MB  {'.htm': 801}
+  1_sanskr\1_sanskr\tei\transformations\html\style       1 files      0.0 MB  {'.css': 1}
+  1_sanskr\1_sanskr\tei\transformations\plaintext      800 files    187.8 MB  {'.txt': 800}
+  4_drav\4_drav                                          1 files      0.2 MB  {'.xml': 1}
+  4_drav\4_drav\malayalam                                1 files      0.2 MB  {'.htm': 1}
+  4_drav\4_drav\tamil\pm                               200 files     28.4 MB  {'.py': 1, '.htm': 199}
+  4_drav\4_drav\tamil\pm\output                          9 files      3.1 MB  {'.csv': 8, '.json': 1}
+  4_drav\4_drav\tei                                      1 files      0.2 MB  {'.xml': 1}
+  4_drav\4_drav\tei\transformations\html                 1 files      0.2 MB  {'.htm': 1}
+  4_drav\4_drav\tei\transformations\html\style           1 files      0.0 MB  {'.css': 1}
+  4_drav\4_drav\tei\transformations\plaintext            1 files      0.2 MB  {'.txt': 1}
+  6_sres\6_sres\1_comp                                   3 files     12.4 MB  {'.htm': 2, '.py': 1}
+  6_sres\6_sres\2_dict                                  20 files    239.2 MB  {'.htm': 20}
+  6_sres\6_sres\3_encycl                                 1 files      6.1 MB  {'.htm': 1}

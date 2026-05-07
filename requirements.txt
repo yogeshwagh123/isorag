@@ -1,0 +1,7 @@
+# VedaStream Requirements
+# Install: pip install -r requirements.txt
+
+google-genai>=1.0.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+rich>=13.0.0
